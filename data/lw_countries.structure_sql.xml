@@ -1,0 +1,21 @@
+<migration>
+<version>1</version>
+<up>
+<createTable name="lw_countries">
+    <fields>
+        <field name="id" type="number" size="4" />
+        <field name="name_en" type="text" size="255" />
+        <field name="kuerzel2" type="text" size="2" />
+        <field name="kuerzel3" type="text" size="3" />
+        <field name="active" type="number" size="1" />
+        <field name="def" type="number" size="1" />
+        <field name="emphasized" type="number" size="1" />
+        <field name="name_de" type="text" size="255" />
+    </fields>
+</createTable>
+
+</up>
+
+</migration>
+
+

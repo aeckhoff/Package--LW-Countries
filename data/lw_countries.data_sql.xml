@@ -1,0 +1,5426 @@
+<dbdata>
+
+<table name="lw_countries">
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[548]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VmFudWF0dQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VlU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VlVU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VmFudWF0dQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[862]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VmVuZXp1ZWxhLCBCb2xpdmFyaWFuIFJlcHVibGljIG9m]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VkU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VkVO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VmVuZXp1ZWxh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[704]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VmlldCBOYW0=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Vk4=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Vk5N]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VmlldG5hbQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[876]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[V2FsbGlzIGFuZCBGdXR1bmE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[V0Y=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[V0xG]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[V2FsbGlzIHVuZCBGdXR1bmE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[732]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[V2VzdGVybiBTYWhhcmE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RUg=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RVNI]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[V2VzdHNhaGFyYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[887]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[WWVtZW4=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[WUU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[WUVN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SmVtZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[894]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[WmFtYmlh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Wk0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Wk1C]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2FtYmlh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[716]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[WmltYmFid2U=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Wlc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[WldF]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2ltYmFid2U=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[4]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QWZnaGFuaXN0YW4=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QUY=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QUZH]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QWZnaGFuaXN0YW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[248]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QWxhbmQgSXNsYW5kcw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QVg=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QUxB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QWxhbmQgSXNsYW5kcw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[8]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QWxiYW5pYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QUw=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QUxC]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QWxiYW5pZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[12]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QWxnZXJpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RFo=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RFpB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QWxnZXJpZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[16]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QW1lcmljYW4gU2Ftb2E=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QVM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QVNN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QW1lcmlrYW5pc2NoLVNhbW9h]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[20]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QW5kb3JyYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QUQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QU5E]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QW5kb3JyYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[24]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QW5nb2xh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QU8=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QUdP]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QW5nb2xh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[660]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QW5ndWlsbGE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QUk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QUlB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QW5ndWlsbGE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[10]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QW50YXJjdGljYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QVE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QVRB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QW50YXJrdGlrYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[28]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QW50aWd1YSBhbmQgQmFyYnVkYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QUc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QVRH]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QW50aWd1YSB1bmQgQmFyYnVkYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[32]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QXJnZW50aW5h]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QVI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QVJH]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QXJnZW50aW5pZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[51]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QXJtZW5pYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QU0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QVJN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QXJtZW5pZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[533]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QXJ1YmE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QVc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QUJX]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QXJ1YmE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[36]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QXVzdHJhbGlh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QVU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QVVT]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QXVzdHJhbGllbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[40]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QXVzdHJpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QVQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QVVU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[w5ZzdGVycmVpY2g=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[31]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QXplcmJhaWphbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QVo=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QVpF]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QXNlcmJhaWRzY2hhbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[44]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QmFoYW1hcw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QlM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QkhT]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QmFoYW1hcw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[48]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QmFocmFpbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qkg=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QkhS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QmFocmFpbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[50]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QmFuZ2xhZGVzaA==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QkQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QkdE]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QmFuZ2xhZGVzY2g=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[52]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QmFyYmFkb3M=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QkI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QlJC]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QmFyYmFkb3M=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[112]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QmVsYXJ1cw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qlk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QkxS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QmVsYXJ1c8KgKFdlacOfcnVzc2xhbmQp]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[56]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QmVsZ2l1bQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QkU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QkVM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QmVsZ2llbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[84]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QmVsaXpl]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qlo=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Qkxa]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QmVsaXpl]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[204]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QmVuaW4=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qko=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QkVO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QmVuaW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[60]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QmVybXVkYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qk0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Qk1V]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QmVybXVkYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[64]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Qmh1dGFu]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QlQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QlRO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Qmh1dGFu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[68]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Qm9saXZpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qk8=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Qk9M]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Qm9saXZpZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[70]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Qm9zbmlhIGFuZCBIZXJ6ZWdvdmluYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QkE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QklI]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Qm9zbmllbiB1bmQgSGVyemVnb3dpbmE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[72]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Qm90c3dhbmE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qlc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QldB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Qm90c3dhbmE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[74]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Qm91dmV0IElzbGFuZA==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QlY=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QlZU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Qm91dmV0aW5zZWw=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[76]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QnJhemls]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QlI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QlJB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QnJhc2lsaWVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[86]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QnJpdGlzaCBJbmRpYW4gT2NlYW4gVGVycml0b3J5]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SU8=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SU9U]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QnJpdGlzY2hlcyBUZXJyaXRvcml1bSBpbSBJbmRpc2NoZW4gT3plYW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[96]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QnJ1bmVpIERhcnVzc2FsYW0=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qk4=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QlJO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QnJ1bmVpIERhcnVzc2FsYW0=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[100]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QnVsZ2FyaWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qkc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QkdS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QnVsZ2FyaWVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[854]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QnVya2luYSBGYXNv]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QkY=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QkZB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QnVya2luYSBGYXNv]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[108]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[QnVydW5kaQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qkk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QkRJ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QnVydW5kaQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[116]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q2FtYm9kaWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S0g=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[S0hN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S2FtYm9kc2NoYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[120]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q2FtZXJvb24=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q00=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q01S]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S2FtZXJ1bg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[124]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q2FuYWRh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q0E=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q0FO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S2FuYWRh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[132]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q2FwZSBWZXJkZQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q1Y=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q1BW]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S2FwIFZlcmRl]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[136]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q2F5bWFuIElzbGFuZHM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S1k=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q1lN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S2FpbWFuaW5zZWxu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[140]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q2VudHJhbCBBZnJpY2FuIFJlcHVibGlj]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q0Y=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q0FG]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[WmVudHJhbGFmcmlrYW5pc2NoZSBSZXB1Ymxpaw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[148]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q2hhZA==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VEQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VENE]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VHNjaGFk]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[152]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q2hpbGU=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q0w=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q0hM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Q2hpbGU=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[156]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q2hpbmE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q04=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q0hO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Q2hpbmEsIFZvbGtzcmVwdWJsaWs=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[162]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q2hyaXN0bWFzIElzbGFuZA==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q1g=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q1hS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[V2VpaG5hY2h0c2luc2Vs]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[166]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q29jb3MgKEtlZWxpbmcpIElzbGFuZHM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q0M=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q0NL]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S29rb3NpbnNlbG4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[170]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q29sb21iaWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q08=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q09M]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S29sdW1iaWVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[174]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q29tb3Jvcw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S00=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q09N]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S29tb3Jlbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[178]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q29uZ28=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q0c=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q09H]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UmVwdWJsaWsgS29uZ28=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[180]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q29uZ28sIERlbW9jcmF0aWMgUmVwdWJsaWMgb2YgdGhl]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q0Q=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q09E]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S29uZ28sIERlbW9rcmF0aXNjaGUgUmVwdWJsaWs=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[184]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q29vayBJc2xhbmRz]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q0s=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q09L]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Q29va2luc2Vsbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[188]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q29zdGEgUmljYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q1I=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q1JJ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Q29zdGEgUmljYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[384]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q290ZSBkJ0l2b2lyZQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q0k=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q0lW]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Q8O0dGUgZCdJdm9pcmXCoChFbGZlbmJlaW5rw7xzdGUp]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[191]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q3JvYXRpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SFI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SFJW]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S3JvYXRpZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[192]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q3ViYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q1U=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q1VC]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S3ViYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[196]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q3lwcnVz]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q1k=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q1lQ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[WnlwZXJu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[208]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RGVubWFyaw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[REs=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RE5L]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RMOkbmVtYXJr]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[262]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RGppYm91dGk=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[REo=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[REpJ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RHNjaGlidXRp]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[212]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RG9taW5pY2E=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RE0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RE1B]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RG9taW5pY2E=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[218]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RWN1YWRvcg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RUM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RUNV]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RWN1YWRvcg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[818]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RWd5cHQ=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RUc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RUdZ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[w4RneXB0ZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[222]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RWwgU2FsdmFkb3I=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U1Y=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U0xW]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RWwgU2FsdmFkb3I=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[232]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RXJpdHJlYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RVI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RVJJ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RXJpdHJlYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[233]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RXN0b25pYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RUU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RVNU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RXN0bGFuZA==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[238]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RmFsa2xhbmQgSXNsYW5kcyAoTWFsdmluYXMp]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Rks=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RkxL]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RmFsa2xhbmRpbnNlbG4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[242]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RmlqaQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Rko=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RkpJ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Rmlkc2NoaQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[246]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RmlubGFuZA==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Rkk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RklO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RmlubmxhbmQ=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[258]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RnJlbmNoIFBvbHluZXNpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UEY=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UFlG]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RnJhbnrDtnNpc2NoLVBvbHluZXNpZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[266]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R2Fib24=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R0E=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R0FC]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R2FidW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[270]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R2FtYmlh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R00=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R01C]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R2FtYmlh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[268]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R2VvcmdpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R0U=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R0VP]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R2VvcmdpZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[276]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R2VybWFueQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[REU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[REVV]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="def" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="emphasized" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RGV1dHNjaGxhbmQ=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[288]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R2hhbmE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R0g=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R0hB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R2hhbmE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[300]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R3JlZWNl]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R1I=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R1JD]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R3JpZWNoZW5sYW5k]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[308]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R3JlbmFkYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R0Q=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R1JE]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R3JlbmFkYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[312]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R3VhZGVsb3VwZQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R1A=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R0xQ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R3VhZGVsb3VwZQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[831]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R3Vlcm5zZXk=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R0c=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R0dZ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R3Vlcm5zZXnCoChLYW5hbGluc2VsKQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[324]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R3VpbmVh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R04=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R0lO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R3VpbmVh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[328]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R3V5YW5h]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R1k=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R1VZ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R3V5YW5h]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[332]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SGFpdGk=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SFQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SFRJ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SGFpdGk=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[336]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SG9seSBTZWUgKFZhdGljYW4gQ2l0eSBTdGF0ZSk=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VkE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VkFU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VmF0aWthbnN0YWR0]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[340]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SG9uZHVyYXM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SE4=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SE5E]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SG9uZHVyYXM=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[344]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SG9uZyBLb25n]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SEs=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SEtH]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SG9uZ2tvbmc=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[348]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SHVuZ2FyeQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SFU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SFVO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VW5nYXJu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[356]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SW5kaWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SU4=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SU5E]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SW5kaWVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[368]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SXJhcQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SVE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SVJR]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SXJhaw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[372]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SXJlbGFuZA==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SUU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SVJM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SXJsYW5k]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[833]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SXNsZSBvZiBNYW4=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SU0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SU1O]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SW5zZWwgTWFu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[376]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SXNyYWVs]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SUw=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SVNS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SXNyYWVs]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[380]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SXRhbHk=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SVQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SVRB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SXRhbGllbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[388]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SmFtYWljYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Sk0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SkFN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SmFtYWlrYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[400]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Sm9yZGFu]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Sk8=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Sk9S]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Sm9yZGFuaWVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[398]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[S2F6YWtoc3Rhbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S1o=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[S0Fa]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S2FzYWNoc3Rhbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[404]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[S2VueWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S0U=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[S0VO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S2VuaWE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[410]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[S29yZWEsIFJlcHVibGljIG9m]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S1I=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[S09S]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S29yZWEsIFJlcHVibGlrwqAoU8O8ZGtvcmVhKQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[414]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[S3V3YWl0]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S1c=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[S1dU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S3V3YWl0]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[417]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[S3lyZ3l6c3Rhbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S0c=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[S0da]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S2lyZ2lzaXN0YW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[428]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TGF0dmlh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TFY=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TFZB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TGV0dGxhbmQ=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[422]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TGViYW5vbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TEI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TEJO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TGliYW5vbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[426]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TGVzb3Robw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TFM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TFNP]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TGVzb3Robw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[430]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TGliZXJpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TFI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TEJS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TGliZXJpYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[434]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TGlieWFuIEFyYWIgSmFtYWhpcml5YQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TFk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TEJZ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TGlieWVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[440]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TGl0aHVhbmlh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TFQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TFRV]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TGl0YXVlbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[442]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[THV4ZW1ib3VyZw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TFU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TFVY]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[THV4ZW1idXJn]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[450]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWFkYWdhc2Nhcg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TUc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TURH]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWFkYWdhc2thcg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[454]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWFsYXdp]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TVdJ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWFsYXdp]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[458]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWFsYXlzaWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TVlT]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWFsYXlzaWE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[462]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWFsZGl2ZXM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVY=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TURW]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWFsZWRpdmVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[466]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWFsaQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TUw=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TUxJ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWFsaQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[470]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWFsdGE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TUxU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWFsdGE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[474]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWFydGluaXF1ZQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TVRR]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWFydGluaXF1ZQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[478]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWF1cml0YW5pYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TVJU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWF1cmV0YW5pZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[175]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWF5b3R0ZQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[WVQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TVlU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWF5b3R0ZQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[484]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWV4aWNv]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVg=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TUVY]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWV4aWtv]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[498]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TW9sZG92YSwgUmVwdWJsaWMgb2Y=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TUQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TURB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TW9sZGF3aWVuwqAoUmVwdWJsaWsgTW9sZGF1KQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[492]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TW9uYWNv]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TUM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TUNP]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TW9uYWNv]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[499]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TW9udGVuZWdybw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TUU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TU5F]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TW9udGVuZWdybw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[504]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TW9yb2Njbw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TUE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TUFS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWFyb2trbw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[508]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TW96YW1iaXF1ZQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVo=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TU9a]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TW9zYW1iaWs=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[516]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TmFtaWJpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TkE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TkFN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TmFtaWJpYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[520]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TmF1cnU=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TlI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TlJV]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TmF1cnU=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[540]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TmV3IENhbGVkb25pYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TkM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TkNM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TmV1a2FsZWRvbmllbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[554]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TmV3IFplYWxhbmQ=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Tlo=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TlpM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TmV1c2VlbGFuZA==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[558]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TmljYXJhZ3Vh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Tkk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TklD]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TmljYXJhZ3Vh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[562]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TmlnZXI=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TkU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TkVS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TmlnZXI=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[566]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TmlnZXJpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Tkc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TkdB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TmlnZXJpYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[580]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Tm9ydGhlcm4gTWFyaWFuYSBJc2xhbmRz]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVA=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TU5Q]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TsO2cmRsaWNoZSBNYXJpYW5lbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[578]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Tm9yd2F5]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Tk8=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Tk9S]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Tm9yd2VnZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[512]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[T21hbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[T00=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[T01O]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[T21hbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[585]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UGFsYXU=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UFc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UExX]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UGFsYXU=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[591]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UGFuYW1h]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UEE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UEFO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UGFuYW1h]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[598]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UGFwdWEgTmV3IEd1aW5lYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UEc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UE5H]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UGFwdWEtTmV1Z3VpbmVh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[600]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UGFyYWd1YXk=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UFk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UFJZ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UGFyYWd1YXk=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[604]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UGVydQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UEU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UEVS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UGVydQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[612]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UGl0Y2Fpcm4=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UE4=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UENO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UGl0Y2Fpcm5pbnNlbG4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[616]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UG9sYW5k]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UEw=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UE9M]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UG9sZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[634]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UWF0YXI=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UUE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UUFU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S2F0YXI=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[638]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UmV1bmlvbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UkU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UkVV]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UsOpdW5pb24=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[642]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Um9tYW5pYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Uk8=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Uk9V]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UnVtw6RuaWVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[646]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UndhbmRh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Ulc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UldB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UnVhbmRh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[652]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2FpbnQgQmFydGhvbGVteQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Qkw=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QkxN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2FpbnQtQmFydGjDqWxlbXk=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[662]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2FpbnQgTHVjaWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TEM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TENB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3QuIEx1Y2lh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[663]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2FpbnQgTWFydGluIChGcmVuY2ggcGFydCk=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TUY=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TUFG]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2FpbnQtTWFydGluwqAoZnJhbnouIFRlaWwp]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[670]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2FpbnQgVmluY2VudCBhbmQgdGhlIEdyZW5hZGluZXM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VkM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VkNU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3QuIFZpbmNlbnQgdW5kIGRpZSBHcmVuYWRpbmVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[882]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2Ftb2E=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[V1M=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[V1NN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2Ftb2E=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[682]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2F1ZGkgQXJhYmlh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0E=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U0FV]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2F1ZGktQXJhYmllbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[686]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2VuZWdhbA==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U04=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U0VO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2VuZWdhbA==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[688]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2VyYmlh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UlM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U1JC]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2VyYmllbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[690]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2V5Y2hlbGxlcw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0M=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U1lD]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2V5Y2hlbGxlbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[702]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2luZ2Fwb3Jl]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0c=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U0dQ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2luZ2FwdXI=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[703]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2xvdmFraWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0s=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U1ZL]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2xvd2FrZWk=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[90]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U29sb21vbiBJc2xhbmRz]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0I=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U0xC]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2Fsb21vbmVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[706]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U29tYWxpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U08=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U09N]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U29tYWxpYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[724]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U3BhaW4=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RVM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RVNQ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3Bhbmllbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[144]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U3JpIExhbmth]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TEs=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TEtB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3JpIExhbmth]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[736]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U3VkYW4=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0Q=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U0RO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3VkYW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[740]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U3VyaW5hbWU=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U1I=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U1VS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3VyaW5hbWU=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[744]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U3ZhbGJhcmQgYW5kIEphbiBNYXllbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0o=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U0pN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3ZhbGJhcmTCoHVuZMKgSmFuIE1heWVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[752]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U3dlZGVu]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0U=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U1dF]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2Nod2VkZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[158]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VGFpd2FuLCBQcm92aW5jZSBvZiBDaGluYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VFc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VFdO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UmVwdWJsaWsgQ2hpbmHCoChUYWl3YW4p]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[762]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VGFqaWtpc3Rhbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VEo=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VEpL]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VGFkc2NoaWtpc3Rhbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[764]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VGhhaWxhbmQ=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VEg=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VEhB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VGhhaWxhbmQ=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[626]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VGltb3ItTGVzdGU=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VEw=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VExT]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[T3N0dGltb3LCoChUaW1vci1MZXN0ZSk=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[768]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VG9nbw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VEc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VEdP]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VG9nbw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[772]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VG9rZWxhdQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VEs=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VEtM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VG9rZWxhdQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[780]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VHJpbmlkYWQgYW5kIFRvYmFnbw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VFQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VFRP]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VHJpbmlkYWQgdW5kIFRvYmFnbw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[788]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VHVuaXNpYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VE4=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VFVO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VHVuZXNpZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[792]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VHVya2V5]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VFI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VFVS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VMO8cmtlaQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[795]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VHVya21lbmlzdGFu]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VE0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VEtN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VHVya21lbmlzdGFu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[796]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VHVya3MgYW5kIENhaWNvcyBJc2xhbmRz]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VEM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VENB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VHVya3MtIHVuZCBDYWljb3NpbnNlbG4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[798]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VHV2YWx1]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VFY=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VFVW]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VHV2YWx1]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[800]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VWdhbmRh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VUc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VUdB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VWdhbmRh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[804]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VWtyYWluZQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VUE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VUtS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VWtyYWluZQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[784]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VW5pdGVkIEFyYWIgRW1pcmF0ZXM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QUU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QVJF]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VmVyZWluaWd0ZSBBcmFiaXNjaGUgRW1pcmF0ZQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[826]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VW5pdGVkIEtpbmdkb20=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R0I=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R0JS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VmVyZWluaWd0ZXMgS8O2bmlncmVpY2ggR3Jvw59icml0YW5uaWVuIHVuZCBOb3JkaXJsYW5k]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[840]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VW5pdGVkIFN0YXRlcw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VVM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VVNB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VmVyZWluaWd0ZSBTdGFhdGVuIHZvbiBBbWVyaWth]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[581]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VW5pdGVkIFN0YXRlcyBNaW5vciBPdXRseWluZyBJc2xhbmRz]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VU0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VU1J]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VW5pdGVkIFN0YXRlcyBNaW5vciBPdXRseWluZyBJc2xhbmRz]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[858]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VXJ1Z3VheQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VVk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VVJZ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VXJ1Z3VheQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[203]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Q3plY2ggUmVwdWJsaWM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q1o=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q1pF]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VHNjaGVjaGlzY2hlIFJlcHVibGlr]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[214]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RG9taW5pY2FuIFJlcHVibGlj]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RE8=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RE9N]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RG9taW5pa2FuaXNjaGUgUmVwdWJsaWs=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[226]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RXF1YXRvcmlhbCBHdWluZWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R1E=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R05R]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[w4RxdWF0b3JpYWxndWluZWE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[231]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RXRoaW9waWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RVQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RVRI]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[w4R0aGlvcGllbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[234]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RmFyb2UgSXNsYW5kcw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Rk8=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RlJP]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RsOkcsO2ZXI=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[250]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RnJhbmNl]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[RlI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RlJB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RnJhbmtyZWljaA==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[254]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RnJlbmNoIEd1aWFuYQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R0Y=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R1VG]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RnJhbnrDtnNpc2NoLUd1YXlhbmE=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[260]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[RnJlbmNoIFNvdXRoZXJuIFRlcnJpdG9yaWVz]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VEY=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QVRG]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[RnJhbnrDtnNpc2NoZSBTw7xkLSB1bmQgQW50YXJrdGlzZ2ViaWV0ZQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[292]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R2licmFsdGFy]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R0k=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R0lC]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R2licmFsdGFy]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[304]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R3JlZW5sYW5k]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R0w=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R1JM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R3LDtm5sYW5k]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[316]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R3VhbQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R1U=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R1VN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R3VhbQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[320]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R3VhdGVtYWxh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R1Q=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R1RN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R3VhdGVtYWxh]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[624]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[R3VpbmVhLUJpc3NhdQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R1c=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[R05C]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[R3VpbmVhLUJpc3NhdQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[334]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SGVhcmQgSXNsYW5kIGFuZCBNY0RvbmFsZCBJc2xhbmRz]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SE0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SE1E]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SGVhcmQgdW5kIE1jRG9uYWxkaW5zZWxu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[352]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SWNlbGFuZA==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SVM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SVNM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SXNsYW5k]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[360]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SW5kb25lc2lh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SUQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SURO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SW5kb25lc2llbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[364]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SXJhbiwgSXNsYW1pYyBSZXB1YmxpYyBvZg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SVI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SVJO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SXJhbiwgSXNsYW1pc2NoZSBSZXB1Ymxpaw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[392]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SmFwYW4=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SlA=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SlBO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SmFwYW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[832]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[SmVyc2V5]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[SkU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[SkVZ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[SmVyc2V5wqAoS2FuYWxpbnNlbCk=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[296]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[S2lyaWJhdGk=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S0k=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[S0lS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S2lyaWJhdGk=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[408]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[S29yZWEsIERlbW9jcmF0aWMgUGVvcGxlJ3MgUmVwdWJsaWMgb2Y=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S1A=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UFJL]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[S29yZWEsIERlbW9rcmF0aXNjaGUgVm9sa3NyZXB1Ymxpa8KgKE5vcmRrb3JlYSk=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[418]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TGFvIFBlb3BsZSdzIERlbW9jcmF0aWMgUmVwdWJsaWM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TEE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TEFP]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TGFvcywgRGVtb2tyYXRpc2NoZSBWb2xrc3JlcHVibGlr]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[438]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TGllY2h0ZW5zdGVpbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TEk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TElF]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TGllY2h0ZW5zdGVpbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[446]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWFjYW8=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TU8=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TUFD]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWFjYW8=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[807]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWFjZWRvbmlhLCB0aGUgZm9ybWVyIFl1Z29zbGF2IFJlcHVibGljIG9m]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TUs=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TUtE]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWF6ZWRvbmllbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[584]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWFyc2hhbGwgSXNsYW5kcw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TUg=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TUhM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWFyc2hhbGxpbnNlbG4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[480]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWF1cml0aXVz]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TVVT]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWF1cml0aXVz]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[583]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TWljcm9uZXNpYSwgRmVkZXJhdGVkIFN0YXRlcyBvZg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Rk0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[RlNN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TWlrcm9uZXNpZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[496]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TW9uZ29saWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TU4=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TU5H]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TW9uZ29sZWk=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[500]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TW9udHNlcnJhdA==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TVM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TVNS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TW9udHNlcnJhdA==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[104]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TXlhbm1hcg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TU0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TU1S]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TXlhbm1hcsKgKEJ1cm1hKQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[524]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TmVwYWw=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TlA=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TlBM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TmVwYWw=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[528]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TmV0aGVybGFuZHM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Tkw=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TkxE]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TmllZGVybGFuZGU=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[530]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[TmV0aGVybGFuZHMgQW50aWxsZXM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[QU4=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[QU5U]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[TmllZGVybMOkbmRpc2NoZSBBbnRpbGxlbsKgKGVoZW1hbGlnKQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[570]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Tml1ZQ==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TlU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TklV]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Tml1ZQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[574]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[Tm9yZm9sayBJc2xhbmQ=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[TkY=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[TkZL]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[Tm9yZm9sa2luc2Vs]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[586]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UGFraXN0YW4=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UEs=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UEFL]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UGFraXN0YW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[275]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UGFsZXN0aW5pYW4gVGVycml0b3J5LCBPY2N1cGllZA==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UFM=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UFNF]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3RhYXQgUGFsw6RzdGluYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[608]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UGhpbGlwcGluZXM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UEg=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UEhM]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UGhpbGlwcGluZW4=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[620]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UG9ydHVnYWw=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UFQ=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UFJU]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UG9ydHVnYWw=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[630]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UHVlcnRvIFJpY28=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UFI=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UFJJ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UHVlcnRvIFJpY28=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[643]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[UnVzc2lhbiBGZWRlcmF0aW9u]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UlU=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[UlVT]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[UnVzc2lzY2hlIEbDtmRlcmF0aW9u]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[654]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2FpbnQgSGVsZW5h]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0g=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U0hO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3QuIEhlbGVuYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[659]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2FpbnQgS2l0dHMgYW5kIE5ldmlz]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[S04=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[S05B]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3QuIEtpdHRzIHVuZCBOZXZpcw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[666]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2FpbnQgUGllcnJlIGFuZCBNaXF1ZWxvbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[UE0=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U1BN]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2FpbnQtUGllcnJlIHVuZCBNaXF1ZWxvbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[674]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2FuIE1hcmlubw==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U00=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U01S]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2FuIE1hcmlubw==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[678]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2FvIFRvbWUgYW5kIFByaW5jaXBl]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U1Q=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U1RQ]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U8OjbyBUb23DqSB1bmQgUHLDrW5jaXBl]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[694]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2llcnJhIExlb25l]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0w=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U0xF]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2llcnJhIExlb25l]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[705]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U2xvdmVuaWE=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U0k=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U1ZO]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2xvd2VuaWVu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[710]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U291dGggQWZyaWNh]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[WkE=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[WkFG]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U8O8ZGFmcmlrYQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[239]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U291dGggR2VvcmdpYSBhbmQgdGhlIFNvdXRoIFNhbmR3aWNoIElzbGFuZHM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[R1M=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U0dT]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U8O8ZGdlb3JnaWVuIHVuZCBkaWUgU8O8ZGxpY2hlbiBTYW5kd2ljaGluc2Vsbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[748]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U3dhemlsYW5k]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U1o=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U1da]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3dhc2lsYW5k]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[756]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U3dpdHplcmxhbmQ=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Q0g=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[Q0hF]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U2Nod2VpesKgKENvbmZvZWRlcmF0aW8gSGVsdmV0aWNhKQ==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[760]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[U3lyaWFuIEFyYWIgUmVwdWJsaWM=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[U1k=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[U1lS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[U3lyaWVuLCBBcmFiaXNjaGUgUmVwdWJsaWs=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[834]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VGFuemFuaWEsIFVuaXRlZCBSZXB1YmxpYyBvZg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VFo=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VFpB]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VGFuc2FuaWEsIFZlcmVpbmlndGUgUmVwdWJsaWs=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[776]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VG9uZ2E=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VE8=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VE9O]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VG9uZ2E=]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[860]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VXpiZWtpc3Rhbg==]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[VVo=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VVpC]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[VXNiZWtpc3Rhbg==]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[92]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VmlyZ2luIElzbGFuZHMsIEJyaXRpc2g=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Vkc=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VkdC]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QnJpdGlzY2hlIEp1bmdmZXJuaW5zZWxu]]>
+            </field>
+       </fields>
+    </entry>
+    <entry>
+        <fields>
+            <field name="id" type="int">
+                <![CDATA[850]]>
+            </field>
+            <field name="name_en" type="string">
+                <![CDATA[VmlyZ2luIElzbGFuZHMsIFUuUy4=]]>
+            </field>
+            <field name="kuerzel2" type="string">
+                <![CDATA[Vkk=]]>
+            </field>
+            <field name="kuerzel3" type="string">
+                <![CDATA[VklS]]>
+            </field>
+            <field name="active" type="int">
+                <![CDATA[1]]>
+            </field>
+            <field name="name_de" type="string">
+                <![CDATA[QW1lcmlrYW5pc2NoZSBKdW5nZmVybmluc2Vsbg==]]>
+            </field>
+       </fields>
+    </entry>
+</table>
+
+</dbdata>
+
+
